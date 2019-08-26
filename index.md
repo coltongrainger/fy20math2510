@@ -13,6 +13,7 @@ to the practice | 4 inference and hypothesis testing
 of statistics.  | 5 model selection
 ```
 
+
 ## tl,dr;
 
 - [syllabus](https://math2510.coltongrainger.com) for dates and deadlines
