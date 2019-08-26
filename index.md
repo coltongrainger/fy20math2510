@@ -38,7 +38,7 @@ textbook        | <https://openintro.org/os>
 textbook pdf    | <https://openintro.org/stat/os4.php>
 license         | <https://creativecommons.org/licenses/by-sa/3.0>
 grading policy  | To be fair and predictable.
-homework policy | TBA
+homework policy | TBD
 homework 1 due  | Aug 30, 2019
 exam policy     | No make-up exams; please plan ahead.
 midterm date    | TBA
