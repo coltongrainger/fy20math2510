@@ -1,9 +1,9 @@
 ---
-title: "MATH 2510-001"
+title: "syllabus"
 
 ---
 
-# syllabus        
+# Syllabus
 
 title           | Introduction to Statistics
 course          | Math 2510
@@ -14,14 +14,6 @@ credits         | 3 units
 link            | <https://math2510.coltongrainger.com>
 
 ## [tl;dr](https://en.wiktionary.org/wiki/too_long;_didn%27t_read)
-
-Math 2510-001 is a survey of five topics relevant to the practice of statistics.
-
-1. data wrangling
-2. elementary probability and measure
-3. statistical distributions
-4. inference and hypothesis testing
-5. model selection
 
 schedule      | <https://trello.com/b/es4osv4Z/math2510>.
 textbooks     | <https://openintro.org/os> ([pdf](https://math2510.coltongrainger.com/assets/2019-openintro-statistics.pdf))
@@ -45,14 +37,21 @@ meeting time    | 8:00am -- 8:50am Mon/Wed/Fri
 first day       | Aug 26, 2019
 last day        | Dec 12, 2019
 
+## overview
+
+1. data wrangling (late August)
+2. elementary probability and measure (late September)
+3. statistical distributions (October)
+4. inference and hypothesis testing (November)
+5. model selection (December)
+
 ## important dates
 
+midterm A        | Wed Oct 16 | in class
 project A        | Fri Oct 18 | due by 11:59pm
 project B        | Mon Dec 9  | due by 11:59pm
-midterm A        | Wed Oct 16 | in class
 midterm B        | Wed Nov 20 | in class
-cumulative final | Wed Dec 18 | 7:30am--10:00am 
-final room       | MUEN       | TBA
+cumulative final | Wed Dec 18 | 7:30am--10:00am (room TBD)
 
 ## exam policy
 
@@ -83,4 +82,4 @@ If $\gamma$ is "close" to (within $0.03$ lengths of) one of the real numbers $0.
 
 ## epigram
 
-*The pursuit of knowledge, friend, is the askin' of many questions.*
+The pursuit of knowledge, friend, is the askin' of many questions.

@@ -2,7 +2,6 @@
 title: "Reproducible Research in Computational Science"
 author: "Roger D. Peng"
 doi: "10.1126/science.1213847"
-date: 2016
 ---
 
 The rise of computational science has led to exciting and fast-moving

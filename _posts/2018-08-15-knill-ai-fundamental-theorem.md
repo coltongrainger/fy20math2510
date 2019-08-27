@@ -1,8 +1,6 @@
 ---
 title: Fundamental Theorems
 author: Oliver Knill
-date: 2018
-revised:
 ---
 
 113. Artificial intelligence 

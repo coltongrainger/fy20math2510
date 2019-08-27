@@ -1,7 +1,7 @@
 ---
 title: Some History and Motivation
 author: Oliver Knill
-date: 1997-01
+date: 1997-09-15
 revised:
 ---
 
