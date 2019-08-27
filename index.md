@@ -52,7 +52,8 @@ project A        | Fri Oct 18 | due by 11:59pm
 project B        | Mon Dec 9  | due by 11:59pm
 midterm A        | Wed Oct 16 | in class
 midterm B        | Wed Nov 20 | in class
-cumulative final | Wed Dec 18 | 7:30am--10:00am
+cumulative final | Wed Dec 18 | 7:30am--10:00am 
+final room       | MUEN       | TBA
 
 ### exam policy
 
@@ -73,7 +74,7 @@ cumulative final       | $c$
 
 Say that $\gamma$ is your uniform grade in the interval $[0,1]$. Then $\gamma$ has linear dependence on $7$ other random variables,
 
-$$\gamma = \frac{i}{10} + \frac{r}{10} + \frac{p}{10} + \frac{q}{10} + \frac{3a}{20} + \frac{3b}{20} + \frac{3}{10}.$$
+$$\gamma = \frac{i}{10} + \frac{r}{10} + \frac{p}{10} + \frac{q}{10} + \frac{3a}{20} + \frac{3b}{20} + \frac{3c}{10}.$$
 
 If $\gamma$ is "close" to (within $0.03$ lengths of) one of the real numbers $0.95$, $0.85$ or $0.75$, your letter grade will be $A$, $B$, or $C$. Else your letter grade will be marked with an appropriate $+$ or $-$ (if $\gamma$ is closer than $0.02$ lengths from $1$, $0.9$, or $0.8$, respectively).
 
